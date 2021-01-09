@@ -13,6 +13,7 @@
 		A20E041A25A81843003845B1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A20E041925A81843003845B1 /* Preview Assets.xcassets */; };
 		A20E042525A81844003845B1 /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20E042425A81844003845B1 /* LandmarksTests.swift */; };
 		A20E043025A81844003845B1 /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A20E042F25A81844003845B1 /* LandmarksUITests.swift */; };
+		A2F973EC25A86DAB00AA7935 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2F973EB25A86DAB00AA7935 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		A20E042B25A81844003845B1 /* LandmarksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandmarksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A20E042F25A81844003845B1 /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		A20E043125A81844003845B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2F973EB25A86DAB00AA7935 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				A20E041225A81843003845B1 /* LandmarksApp.swift */,
 				A20E041425A81843003845B1 /* ContentView.swift */,
 				A20E041625A81843003845B1 /* Assets.xcassets */,
+				A2F973EB25A86DAB00AA7935 /* CircleImage.swift */,
 				A20E041B25A81843003845B1 /* Info.plist */,
 				A20E041825A81843003845B1 /* Preview Content */,
 			);
@@ -261,6 +264,7 @@
 			files = (
 				A20E041525A81843003845B1 /* ContentView.swift in Sources */,
 				A20E041325A81843003845B1 /* LandmarksApp.swift in Sources */,
+				A2F973EC25A86DAB00AA7935 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
